@@ -8,3 +8,4 @@ Ironman
 
 - **Inventario:**
 	- Barril de pólvora
+	- Isqueiro
