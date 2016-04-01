@@ -9,3 +9,5 @@ Ironman
 - **Inventario:**
 	- Barril de pólvora
 	- Isqueiro
+	- Baby Creeper
+	- Baby Wolf
